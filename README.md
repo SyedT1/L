@@ -7,3 +7,4 @@
 + **[Python101](https://python101.pythonlibrary.org/intro.html)**
 + **[Python3 Doc](https://docs.python.org/3/tutorial/index.html)**
 + **[ML with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/)**
++ **[FreeProgrammingBooks Python](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#python)**
